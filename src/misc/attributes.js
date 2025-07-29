@@ -1,0 +1,1 @@
+export const attributesGame = ['light','dark','water','fire','earth','wind'];
